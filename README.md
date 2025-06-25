@@ -1,6 +1,6 @@
 # 👨‍💻 Fabián Echeverría - Data Analyst en formación
 
-![Banner](https://github.com/fabiancazar/fabiancazar/raw/main/banner.png)
+![Banner](./assets/banner.png)
 
 **Enfoque en Optimización de Procesos, Análisis de Datos y Mejora Continua.**
 
