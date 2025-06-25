@@ -1,15 +1,14 @@
-# 👨‍💻 Fabián Echeverría - Data Analyst en formación
+![Banner](./assets/Banner.png)
 
-![Banner](./assets/banner.png)
+# 👋 Hola! SoyFabián Echeverría - Data Analyst en formación
 
 **Enfoque en Optimización de Procesos, Análisis de Datos y Mejora Continua.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabián-echeverría-cazar)  
-[![Portafolio](https://img.shields.io/badge/Portafolio-Próximamente-FF6F00?style=flat&logo=google-chrome&logoColor=white)]()  
 
 ---
 
-## 👋 Sobre mí  
+## 👨‍💻 Sobre mí  
 
 Apasionado por la tecnología y la optimización de procesos. En transición profesional hacia el análisis de datos, combinando experiencia en logística y mejora continua con herramientas como Python, SQL, Power BI y Excel.
 
