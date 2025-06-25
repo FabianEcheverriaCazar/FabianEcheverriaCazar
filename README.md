@@ -1,13 +1,19 @@
 # 👨‍💻 Fabián Echeverría - Data Analyst en formación
 
+![Banner](https://github.com/fabiancazar/fabiancazar/raw/main/banner.png)
+
 **Enfoque en Optimización de Procesos, Análisis de Datos y Mejora Continua.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabián-echeverría-cazar)  
+[![Portafolio](https://img.shields.io/badge/Portafolio-Próximamente-FF6F00?style=flat&logo=google-chrome&logoColor=white)]()  
 
 ---
 
 ## 👋 Sobre mí  
+
 Apasionado por la tecnología y la optimización de procesos. En transición profesional hacia el análisis de datos, combinando experiencia en logística y mejora continua con herramientas como Python, SQL, Power BI y Excel.
 
-Siempre buscando nuevas formas de simplificar procesos y mejorar la eficiencia operativa mediante el uso de datos.
+Siempre buscando nuevas formas de simplificar procesos y mejorar la eficiencia operativa mediante el uso de datos y automatización.
 
 ---
 
@@ -24,13 +30,16 @@ Siempre buscando nuevas formas de simplificar procesos y mejorar la eficiencia o
 ## 📂 Proyectos Destacados
 
 ### 🚀 IoT Fraud Detection and Monitoring System  
-Monitoreo de datos de sensores IoT con detección de anomalías y generación de alertas. Automatización de flujos de datos e informes (Python, APIs, Power BI).
+Monitoreo de datos de sensores IoT con detección de anomalías y generación de alertas. Automatización de flujos de datos e informes.  
+**Tecnologías:** Python, APIs, Power BI.  
 
 ### 🚗 Fleet Optimization and Automated Reporting  
-Automatización de reportes operativos y generación de KPIs para flotas, reducción de errores y tiempos de ejecución (Python, Power BI).
+Automatización de reportes operativos y generación de KPIs para flotas, reducción de errores y tiempos de ejecución.  
+**Tecnologías:** Python, Power BI.  
 
 ### ⚠️ Accident Risk Analysis Dashboard  
-Análisis de datos históricos de accidentes para diseñar estrategias de prevención. Visualización interactiva en Power BI.
+Análisis de datos históricos de accidentes para diseñar estrategias de prevención. Visualización interactiva.  
+**Tecnologías:** Power BI.  
 
 ---
 
