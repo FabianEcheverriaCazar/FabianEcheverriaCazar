@@ -16,13 +16,10 @@ Siempre buscando nuevas formas de simplificar procesos y mejorar la eficiencia o
 
 ---
 
-## ⚒️ Lenguajes y Herramientas  
+# ⚒️ Lenguajes y Herramientas  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-![APIs](https://img.shields.io/badge/APIs-FF6F00?style=flat&logo=api&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&scale=2) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white&scale=2) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black&scale=2) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&scale=2) ![APIs](https://img.shields.io/badge/APIs-FF6F00?style=flat&logo=api&logoColor=white&scale=2)
+
 
 ---
 
