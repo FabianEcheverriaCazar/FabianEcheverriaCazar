@@ -1,6 +1,54 @@
-## Hi there 👋
+# 👨‍💻 Fabián Echeverría - Data Analyst en formación
+
+**Enfoque en Optimización de Procesos, Análisis de Datos y Mejora Continua.**
+
+---
+
+## 👋 Sobre mí  
+Apasionado por la tecnología y la optimización de procesos. En transición profesional hacia el análisis de datos, combinando experiencia en logística y mejora continua con herramientas como Python, SQL, Power BI y Excel.
+
+Siempre buscando nuevas formas de simplificar procesos y mejorar la eficiencia operativa mediante el uso de datos.
+
+---
+
+## ⚒️ Lenguajes y Herramientas  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![APIs](https://img.shields.io/badge/APIs-FF6F00?style=flat&logo=api&logoColor=white)  
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🚀 IoT Fraud Detection and Monitoring System  
+Monitoreo de datos de sensores IoT con detección de anomalías y generación de alertas. Automatización de flujos de datos e informes (Python, APIs, Power BI).
+
+### 🚗 Fleet Optimization and Automated Reporting  
+Automatización de reportes operativos y generación de KPIs para flotas, reducción de errores y tiempos de ejecución (Python, Power BI).
+
+### ⚠️ Accident Risk Analysis Dashboard  
+Análisis de datos históricos de accidentes para diseñar estrategias de prevención. Visualización interactiva en Power BI.
+
+---
+
+## 💡 Intereses  
+✔️ Business Intelligence  
+✔️ Data Science aplicada a operaciones  
+✔️ Automatización de procesos  
+✔️ Visualización de datos  
+
+
 
 <!--
+---
+
+## 📫 Contacto  
+[LinkedIn](https://www.linkedin.com/in/tuusuario)  
+Correo: tunombre@correo.com  
+
 **FabianEcheverriaCazar/FabianEcheverriaCazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
